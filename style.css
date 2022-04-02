@@ -19,7 +19,7 @@ ul{
 
 ul li{
     display: inline; 
-    padding: 15px;
+    padding-right: 15px;
 }
 
 #titulo{
