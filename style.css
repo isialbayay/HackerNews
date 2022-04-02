@@ -20,6 +20,7 @@ ul{
 ul li{
     display: inline; 
     padding-right: 15px;
+    padding-top: 15px;
 }
 
 #titulo{
