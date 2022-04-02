@@ -14,6 +14,7 @@ nav{
 
 ul{   
     list-style: none;
+    width:20%;
 }
 
 ul li{
@@ -37,7 +38,7 @@ a{
     text-decoration: none;
 }
 #vacio{
-    width: 10%;
+    width:20%;
 }
 
 div#cuerpo{
