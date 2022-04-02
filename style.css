@@ -1,0 +1,119 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+nav{ 
+    width:100%;
+    background-color: pink;
+    display: flex;
+    justify-content:space-between;  
+   
+}
+
+ul{
+    display: flex; 
+    width:10%;       
+    list-style: none;
+}
+
+ul li{
+    padding: 15px;
+}
+
+#titulo{
+    font-size:50px;
+    padding: 15px;
+    font-family: Galada;
+}
+
+#elementos{
+    font-size:20px;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+}
+#vacio{
+    width: 10%;
+}
+
+div#cuerpo{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 50px;
+}
+
+input[type="text"]{
+    font-size:20px;
+}
+
+button{
+    font-size:20px;
+    padding-left:5px;
+    padding-right:5px;
+}
+
+#cuerpo{
+ margin:20px;
+}
+
+#comentarios{
+    display: flex;
+    justify-content: space-between;
+    padding:20px;
+}
+
+#comentario{
+    width: 700px;
+    border: 1px solid;
+    border-color:black;
+    padding: 10px;
+    margin:20px;
+}
+
+#parrafo{
+    font-size:20px;
+}
+
+#contenido{
+    min-height: calc(100vh - 100px - 194px);
+}
+
+#contenido2{
+    min-height: calc(100vh - 100px - 144px);
+}
+
+footer{
+    display:flex;
+    background-color: pink;
+    justify-content: center;
+    padding:40px;    
+    font-family: Galada;
+}
+
+#message{
+    width: 700px;
+    height: 200px;
+    vertical-align: top;
+}
+
+#caja{
+    width: 700px;
+}
+
+label{
+    display: inline-block;
+    font-size: 20px;
+    text-align: right;
+    width:90px;
+}
+
+#submit{
+    margin-left: 690px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
